@@ -27,9 +27,9 @@
             <!-- navigation menu -->
             <nav class="top-nav">
                 <ul>
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.php" class="active">Home</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
             <span class="search-icon">
@@ -79,7 +79,7 @@
                 <div>
                     <h3 style="text-shadow: 2px;">With my camera, I capture daily life</h3>
                     <p>“Photography is a way of feeling, of touching, of loving. What you have caught on film is captured forever… It remembers little things, long after you have forgotten everything.”</p>
-                    <a href="contact.html" class="btn">view all</a>
+                    <a href="contact.php" class="btn">view all</a>
                 </div>
             </div>
 
@@ -87,7 +87,7 @@
                 <div class="work-content">
                     <h3>AMAZING TEAM WORK WITH PROFESSIONAL PHOTOGRAPHER</h3>
                     <p>Over the last few years working in professional portrait photography I have learnt that the success of my endeavours is not solely down to me. It is all about teamwork: ‘a co-ordinated effort on the part of a group of persons acting together as a team in the interests of a common cause’.</p>
-                    <a href="gallery.html" class="btn">view all</a>
+                    <a href="gallery.php" class="btn">view all</a>
                 </div>
                 <div class="work-imgs">
                     <div class="work-img-1">
